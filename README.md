@@ -8,13 +8,13 @@
 
 ## Server Spec
 
-Built with in-memory database WoW! muh perfomance !!
-Using base64 for voucher generation WaW i hope you didnt write it on post notes
-Date Checking! Use it before 3 months !!
+- Built with in-memory database WoW! muh perfomance !!
+- Using base64 for voucher generation WaW i hope you didnt write it on post notes
+- Date Checking! Use it before 3 months !!
 
 
 ### UI
 
-~stolen from tailwindcomponents.com~ used various UI code from internet
-Simpel UI/UX just 2 Pages!
-Latest App Router Controversial Next.Js v13 !! :smile:
+- ~stolen from tailwindcomponents.com~ used various UI code from internet
+- Simple UI/UX just 2 Pages!
+- Latest App Router Controversial Next.Js v13 !! :smile:
