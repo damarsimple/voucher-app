@@ -9,7 +9,7 @@
 ## Server Spec
 
 - Built with in-memory database WoW! muh perfomance !!
-- Using base64 for voucher generation WaW i hope you didnt write it on post notes
+- Using uuidv4 for voucher generation WaW i hope you didnt write it on post notes
 - Date Checking! Use it before 3 months !!
 
 
